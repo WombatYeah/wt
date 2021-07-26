@@ -16,6 +16,7 @@ background-image: url("https://www.myfreetextures.com/wp-content/uploads/2014/10
          padding: 3px;
               background-color: white;
              transition-duration: 0.4s;
+            size: 20px;
         }
         .buttons:hover {
   background-color: #675744;
