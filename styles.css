@@ -6,4 +6,5 @@ body {
 background-image: url("https://www.myfreetextures.com/wp-content/uploads/2014/10/soft-brown-fur-texture-900x900.jpg");
  background-color: #cccccc;
 }
-.button1 {background-color: #4CAF50;} /* Green */
+.buttons {background-color: #4CAF50;} /* Green */
+        .buttons {border-radius: 6px;}
