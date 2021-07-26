@@ -9,7 +9,7 @@ background-image: url("https://www.myfreetextures.com/wp-content/uploads/2014/10
 .buttons {border-radius: 6px;}
         .buttons{
             color: black;
-         padding: 16px;
+         padding: 5px;
               background-color: white;
              transition-duration: 0.4s;
         }
