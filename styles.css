@@ -2,4 +2,7 @@ p1 {
     font-family: 'Righteous', cursive;
     
 }
- background-image: url("https://c8.alamy.com/comp/EA4M2M/closeup-of-animal-fur-EA4M2M.jpg");
+body { 
+background-image: url("https://c8.alamy.com/comp/EA4M2M/closeup-of-animal-fur-EA4M2M.jpg");
+ background-color: #cccccc;
+}
